@@ -2,3 +2,7 @@ Python project using pandas, matplot and seaborn to analyze movies' ratings.
 
 I used Google Colaboratory as the notebook:
 https://colab.research.google.com
+
+Data sets from
+kaggle/tmdb = https://www.kaggle.com/tmdb/tmdb-movie-metadata/downloads/tmdb-5000-movie-dataset.zip/2
+and movielens
